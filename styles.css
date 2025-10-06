@@ -27,7 +27,7 @@
 	left: 100vw;
 	height: 70vh;
 	width: 6vw;
-	background:radial-gradient(lightred 50%, red);
+	background:radial-gradient(red);
 	border: 5px solid black;
 	display: flex;
     justify-content: center;
@@ -92,6 +92,7 @@
 
 }
 !
+
 
 
 
