@@ -61,7 +61,7 @@
 	height: 10vh;
 	font-size: 5vh;
 	font-weight: 100;
-	color: white;
+	color: red;
 	-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
 	top: 0;
@@ -92,6 +92,7 @@
 
 }
 !
+
 
 
 
