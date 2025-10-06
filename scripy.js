@@ -129,7 +129,7 @@ function play(){
             pipe_sprite.style.top = pipe_posi + pipe_gap + 'vh';
             pipe_sprite.style.left = '100vw';
             pipe_sprite.increase_score = '1';
-            pipe_sprite.textContent = "RIALO";
+            pipe_sprite.textContent = "R";
 
             document.body.appendChild(pipe_sprite);
         }
@@ -139,3 +139,4 @@ function play(){
     requestAnimationFrame(create_pipe);
 
 }
+
