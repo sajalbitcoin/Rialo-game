@@ -121,7 +121,7 @@ function play(){
             pipe_sprite_inv.className = 'pipe_sprite';
             pipe_sprite_inv.style.top = pipe_posi - 70 + 'vh';
             pipe_sprite_inv.style.left = '100vw';
-            pipe_sprite_inv.textContent = "RIALO";
+            pipe_sprite_inv.textContent = "";
 
             document.body.appendChild(pipe_sprite_inv);
             let pipe_sprite = document.createElement('div');
@@ -139,5 +139,6 @@ function play(){
     requestAnimationFrame(create_pipe);
 
 }
+
 
 
