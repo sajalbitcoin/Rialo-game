@@ -59,7 +59,7 @@
 	position: fixed;
 	z-index: 10;
 	height: 10vh;
-	font-size: 10vh;
+	font-size: 5vh;
 	font-weight: 100;
 	color: white;
 	-webkit-text-stroke-width: 2px;
@@ -80,7 +80,7 @@
 		white-space: nowrap;
 	}
 	.score{
-		font-size: 8vh;
+		font-size: 5vh;
 	}
 	.bird{
 		width: 120px;
@@ -92,6 +92,7 @@
 
 }
 !
+
 
 
 
